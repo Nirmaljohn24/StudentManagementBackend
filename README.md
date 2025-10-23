@@ -23,7 +23,7 @@ It handles authentication, assignment management, and student submissions for th
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose)  
@@ -32,7 +32,7 @@ It handles authentication, assignment management, and student submissions for th
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 Install dependencies
 ```bash
